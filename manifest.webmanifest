@@ -1,0 +1,15 @@
+{
+  "name":"مدیریت مالی",
+  "short_name":"مدیریت مالی",
+  "description":"مدیریت مالی شخصی آفلاین و خصوصی با تحلیل عملکرد، اهداف، بدهی، VPN و سرمایه‌ها",
+  "lang":"fa",
+  "dir":"rtl",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#07101f",
+  "theme_color":"#0a66ff",
+  "icons":[
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
